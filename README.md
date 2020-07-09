@@ -5,7 +5,7 @@ Now pages for your GitHub profiles.
 GitHub now allows you to dynamically update your GitHub profile. Do you want to show the Spotify song you're currently playing?
 Do you want to show a list of dynamic calendar entries of your next conference speaking gigs (oh well...post Corona at least)?
 
-Here's an [example profile](https://github.com/mpociot).
+![](https://pociot.dev/github-now/example.png)
 
 This app allows you to do just that. You can think of it as a personal dashboard on GitHub.
 
